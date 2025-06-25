@@ -88,4 +88,18 @@ Archive or move processed files to prevent duplicate insertion.
 
 Use Task Scheduler or systemd to run this script on startup (optional).
 
+---
 
+These hashtags will help search engines **index your project** better when people search for keywords like:
+
+- *"automatically insert excel into sql server python"*
+- *"watch onedrive folder python"*
+- *"Excel to SQL server automation"*
+
+Let me know if you want to add a badge section, GitHub actions, or a screenshot/gif demo!
+
+
+#Python #OneDrive #SQLServer #ExcelToSQL #PythonAutomation #DataIntegration
+#ETL #WatchdogPython #Pyodbc #Openpyxl #SQLServerImport #ExcelAutomation
+#PythonScript #Office365 #FileWatcher #RealtimeImport #DatabaseAutomation
+#MicrosoftSQLServer #OneDriveSync #DataPipeline #PythonProjects
