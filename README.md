@@ -94,7 +94,7 @@ Use Task Scheduler or systemd to run this script on startup (optional).
 
 ---
 
-These hashtags will help search engines **index your project** better when people search for keywords like:
+
 
 - *"automatically insert excel into sql server python"*
 - *"watch onedrive folder python"*
