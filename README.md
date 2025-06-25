@@ -81,7 +81,11 @@ CREATE TABLE Employee (
     Dept NVARCHAR(100),
     Age INT
 );
+
+
 📌 Tips
+
+
 Ensure OneDrive is fully synced to your local machine.
 
 Archive or move processed files to prevent duplicate insertion.
