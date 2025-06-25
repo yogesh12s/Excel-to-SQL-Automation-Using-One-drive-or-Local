@@ -58,6 +58,8 @@ df = df.rename(columns={
     'FullName': 'Name',
     'Department': 'Dept'
 })
+
+
 ▶️ Run the Script
 
 
