@@ -47,6 +47,8 @@ conn_str = (
     r'UID=YOUR_USERNAME;'
     r'PWD=YOUR_PASSWORD'
 )
+
+
 3. Adjust Column Mapping (if needed)
 Update this block to match your Excel and SQL column names:
 
